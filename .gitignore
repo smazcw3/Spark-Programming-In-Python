@@ -9,3 +9,9 @@
 *.crc
 *.parquet
 */*/_SUCCESS
+
+# Venv
+.venv/
+
+# System
+.DS_Store
